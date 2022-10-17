@@ -1,0 +1,5 @@
+SSL Offloading is very CPU consuming process.
+So here I will monitor CPU load.
+As well as I need to monitor load (bandwidth) on network cards, to make sure that no packet drop are ocurred.
+For proxy functionality I guess in addition we need to monitor free disk space as well as disk performance.
+For both cases we can use almost any agent-based monitoring system. In our case it will be Nagios as it is already in production.

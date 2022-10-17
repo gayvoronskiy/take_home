@@ -1,0 +1,22 @@
+● Build instructions
+
+To run this script add execution permission to file:
+
+chmod +x random_number.sh
+
+Execute script with following command:
+
+./random_number.sh
+
+● Usage
+
+No input is required for script. Simply execute it.
+
+● Description
+
+This script generates 10 unique numbers in range from 1 to 10 in random order.
+
+● Known limitations / bugs
+
+Range is set to 1 to 10 and there will be only 10 numbers generated.
+If you need script without limitations, please use random_number_v2.sh file.
